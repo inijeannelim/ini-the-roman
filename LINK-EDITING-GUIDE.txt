@@ -1,0 +1,15 @@
+LINK EDITING GUIDE — V36
+
+1. Open index.html in VS Code.
+2. Search (Cmd+F) for: LINK HERE
+3. Replace PASTE_YOUR_LINK_HERE in the href attribute with the relevant URL.
+4. All press coverage and gifting tiles have clickable images AND captions.
+5. Existing Proper Magazine links and Denim Dudes post URL are prefilled.
+6. For a tile without a URL yet, clicking it will not navigate until you replace the placeholder.
+
+Example:
+<a href="PASTE_YOUR_LINK_HERE" ...>
+becomes
+<a href="https://www.instagram.com/p/EXAMPLE/" ...>
+
+Search 'earned-tile' to locate all coverage and gifting cards.
